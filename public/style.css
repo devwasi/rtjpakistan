@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css?family=Cinzel Decorative|Roboto Slab|Trirong");
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font: 16px "Roboto Slab" , sans-serif;
+}
+.cinzelfont{
+font-family: "Cinzel Decorative" ;
+}
+
+.border-btm{
+    display: inline-block;
+    border-bottom: 3px solid #301505;
+}
+.custopm-border-top{
+    border-top: 3px solid #301505;
+}
